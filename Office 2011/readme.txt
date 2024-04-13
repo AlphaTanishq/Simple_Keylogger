@@ -1,4 +1,4 @@
-step 1:- disable realtime protection
+step 0:- disable realtime protection
          go to windows security and turn off real-time protection and tamper protection
          Then go to registry->local machine->software->policies->microsoft->windows defender
          Then create a new key by right clicking on windows defender folder and name it 'Real-Time Protection'
